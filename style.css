@@ -5,6 +5,42 @@ rodrigo.infoeducativa@gmail.com
 
 */
 
-body {
-  background-color: skyblue;
+/*   
+Media Queries
+
+Sempre parte do uso pelo Smartphone protrait  até PC Landscape
+
+1- Smartphone Portrait
+2- Smartphone Landscape
+3- Tablet Portrait
+4-Tablet Landscape
+5- PC - DESKTOP/Notebook
+
+
+*/
+/* Se assemelha a programação C  -Condicional*/
+
+/* Smartphone Landscape*/
+@media (min-width: 576px) {
+  body {
+    background-color: skyblue;
+  }
+}
+
+@media (min-width: 768px) {
+  body {
+    background-color: rgb(245, 154, 236);
+  }
+}
+
+@media (min-width: 992px) {
+  body {
+    background-color: #c2f4b4;
+  }
+}
+
+@media (min-width: 1200px) {
+  body {
+    background-color: #f2f4b4;
+  }
 }
