@@ -26,19 +26,19 @@ Sempre parte do uso pelo Smartphone protrait  até PC Landscape
     background-color: skyblue;
   }
 }
-
+/* Tablet Portrait*/
 @media (min-width: 768px) {
   body {
     background-color: rgb(245, 154, 236);
   }
 }
-
+/* Tablet Landscape*/
 @media (min-width: 992px) {
   body {
     background-color: #c2f4b4;
   }
 }
-
+/* Para PC*/
 @media (min-width: 1200px) {
   body {
     background-color: #f2f4b4;
