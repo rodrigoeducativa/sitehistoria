@@ -1,6 +1,6 @@
 # ![História](/img/icon_medievalBook.png) História Fundamental
 
-### Professor Rodrigo <img src="https://visitor-badge.laobi.icu/badge?page_id=rodrigoeducativa.Portfolio"
+### Professor Rodrigo <img src="https://visitor-badge.laobi.icu/badge?page_id=rodrigoeducativa.Portfolio">
 
          alt="visitors">
 
